@@ -32,7 +32,7 @@ Uygulamanın Android APK dosyasına aşağıdaki bağlantıdan veya proje klasö
 ## 📺 Tanıtım Videosu
 Projenin 1 dakikalık hızlı oynanış videosuna buradan ulaşabilirsiniz:
 
-🔗 **[YouTube Tanıtım Videosu](https://youtube.com/link_buraya)** *(Yer tutucu)*
+🔗 **[YouTube Tanıtım Videosu](https://youtube.com/shorts/5nQcPgkRoZw)** 🎥
 
 ---
 
