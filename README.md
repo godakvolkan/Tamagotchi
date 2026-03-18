@@ -81,3 +81,8 @@ Proje, kullanıcı deneyimini iyileştirmek adına 3 farklı profil tarafından 
 
 ## 🧑‍💻 Geliştirici
 - **Volkan Godak** - [GitHub](https://github.com/godakvolkan)
+
+---
+
+## 🙏 Teşekkür
+Bu projenin fikri ve geliştirilme aşamasındaki değerli yönlendirmeleri için hocalarım **Nurettin Şenyer** ve **Ömer DURMUŞ**'a çok teşekkür ederim.
