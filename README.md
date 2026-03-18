@@ -25,7 +25,8 @@ Bu proje, geleneksel Tamagotchi mekaniklerini modern mobil oyun elementleriyle b
 ## 📲 APK İndir
 Uygulamanın Android APK dosyasına aşağıdaki bağlantıdan veya proje klasöründen ulaşabilirsiniz:
 
-👉 **[Uygulamayı İndir (Releases Sayfası)](https://github.com/godakvolkan/Tamagotchi/releases)** 📲
+👉 **[Android APK Doğrudan İndir](https://expo.dev/artifacts/eas/pwM7rtQdvpKq2oRsSrfxhC.apk)** 📲
+👉 **[Expo Build Sayfası (QR Kod)](https://expo.dev/accounts/231118058/projects/TamagotchiApp/builds/be8e4d8d-28bb-45ee-9751-13a97d282620)** 🔗
 
 📍 **Depo İçindeki Dosya Konumu:**
 `android/app/build/outputs/apk/debug/app-debug.apk`
