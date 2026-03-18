@@ -53,7 +53,7 @@ Projenin 1 dakikalık hızlı oynanış videosuna buradan ulaşabilirsiniz:
 1. **Depoyu Klonlayın**:
    ```bash
    git clone https://github.com/godakvolkan/Tamagotchi.git
-   cd TamagotchiApp
+   cd Tamagotchi
    ```
 2. **Bağımlılıkları Yükleyin**:
    ```bash
@@ -63,6 +63,8 @@ Projenin 1 dakikalık hızlı oynanış videosuna buradan ulaşabilirsiniz:
    ```bash
    npx expo start
    ```
+4. **Android'de Açın (Alternatif)**:
+   - Android Studio üzerinden `/android` klasörünü açarak doğrudan derleyebilirsiniz.
 4. **Android'de Açın**:
    - Expo Go uygulamasından QR kodu taratın.
    - Veya Android emulator için `a` tuşuna basın.
