@@ -25,7 +25,13 @@ Bu proje, geleneksel Tamagotchi mekaniklerini modern mobil oyun elementleriyle b
 ## 📲 APK İndir
 Uygulamanın Android APK dosyasına aşağıdaki bağlantıdan veya proje klasöründen ulaşabilirsiniz:
 
-👉 **[Uygulamayı İndir (APK)](https://github.com/godakvolkan/Tamagotchi/releases)** 📲
+👉 **[Uygulamayı İndir (Releases Sayfası)](https://github.com/godakvolkan/Tamagotchi/releases)** 📲
+
+📍 **Depo İçindeki Dosya Konumu:**
+`android/app/build/outputs/apk/debug/app-debug.apk`
+
+> [!IMPORTANT]
+> GitHub'ın 100 MB dosya boyutu sınırı nedeniyle, APK dosyasını doğrudan repodan indirmek yerine **Releases** sayfasından indirmeniz tavsiye edilir. Dosya bu konuma manuel olarak da yüklenebilir.
 
 ---
 
